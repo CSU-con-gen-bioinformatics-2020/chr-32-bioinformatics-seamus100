@@ -7,5 +7,5 @@
 #SBATCH --mail-user=scalden@colostate.edu
 
 
-./map-N-files-from-K.sh 8 1
+./map-N-files-from-K.sh 128 1
 
